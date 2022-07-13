@@ -1,4 +1,4 @@
-# vue3-template
+# vue2-template
 使用vue-cli初始化的vue2项目，带vroute，没有eslint。有时候在公司不能使用`vue create demo`，这个仓库就很方便。
 
 Vue2 project initialized with Vue cli, with vroute and no eslint. Sometimes you can't use `Vue create demo` in the company, so this repository is very convenient.
